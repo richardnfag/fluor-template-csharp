@@ -6,6 +6,7 @@ Starter template for a Fluor function in C# using `componentize-dotnet`.
 
 - .NET 10 SDK preview or newer
 - Recent `wasmtime`
+- `just`: `cargo install just`
 
 ## Build
 
